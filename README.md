@@ -111,6 +111,7 @@ Use the Switch to Light Mode or Switch to Dark Mode button to change the theme.
 ![alt text](<Screenshot 2025-03-02 220227.png>)
 
 3. **PDF Report**
+   
 ![alt text](<Screenshot 2025-03-02 220307.png>)
 
 ---
